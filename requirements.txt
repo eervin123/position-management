@@ -1,0 +1,7 @@
+backtesting
+scikit-learn
+
+# If however you want to use the backtesting_exit_strategies.ipynb notebook, you will need to install the following packages:
+#vectorbtpro # you might be able to use just vectorbt
+# and some other dependencies. have a look at my_environment.txt for my datascience dependencies
+
