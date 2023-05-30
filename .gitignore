@@ -13,7 +13,7 @@ __pycache__/
 *.hdf5
 
 # Ignore the Plots that come from backtesting.py
-MyStrat.html
+*.html
 
 # C extensions
 *.so
