@@ -1,4 +1,7 @@
-backtesting
+# backtesting 
+# Need the latest version of backtesting.py
+git+https://github.com/kernc/backtesting.py.git
+vectorbtpro
 scikit-learn
 
 # If however you want to use the backtesting_exit_strategies.ipynb notebook, you will need to install the following packages:
