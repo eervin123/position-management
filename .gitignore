@@ -4,10 +4,10 @@ __pycache__/
 *$py.class
 
 # Other Large files
-*.csv
+#*.csv
 *.zip
 *.gz
-*.pkl
+#*.pkl
 *.h5
 *.pickle
 *.hdf5
