@@ -1,4 +1,8 @@
-from backtesting import Strategy, Backtest
+from backtesting import Strategy
+from backtesting.lib import resample_apply
+import pandas_ta as ta
+import pandas as pd
+import numpy as np
 
 class LONG_SHORT_Underwater_w_decay_and_deleverage(Strategy):
     # All of the following variables can be used during optimization
